@@ -1,4 +1,10 @@
-video{
-	width:100%;
-	max-width:3k00px;
-}
+video {
+		position: absolute !important;
+		width: 200px !important;
+		height: 200px !important;
+		top: 0px !important;
+		display: block !important;
+		object-fit: cover !important;
+		border-radius: 2px !important; 
+	}
+
